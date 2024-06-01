@@ -5,3 +5,7 @@
 header{
     z-index: 10001 !important;
 }
+.subtitle{
+    @apply text-red-600 uppercase tracking-wide font-medium text-lg
+}
+
